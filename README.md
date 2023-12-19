@@ -15,7 +15,7 @@ This is what i have learnt in <a href="https://fullstack.edu.vn/courses/html-css
 3. By now, you should have a fully functional web!!!
 
 ## :x:Known issues
-* It's not polished and may not entirely loo like the original web page.
+* It's not polished and may not entirely look like the original web page.
 
 ## 📫Feedbacks
 If you happen to have feedbacs, please feel free to give me recommendations on how i can improve my html-css-javascript skills.

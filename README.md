@@ -4,7 +4,7 @@ Web <a href="https://www.w3schools.com/w3css/tryw3css_templates_band.htm">The Ba
 This is what i have learnt in <a href="https://fullstack.edu.vn/courses/html-css">F8</a>'s HTML-CSS course.
 
 ## 🔨Installation
-* Download `index.html` and `assets` folder (Or just download from `Releases` on GitHub.
+* Download `index.html` and `assets` folder (Or just download from `Releases` on GitHub).
 * Clone the repo.
 
 ## 🚀How to get it running

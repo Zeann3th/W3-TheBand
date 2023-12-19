@@ -8,7 +8,10 @@ This is what i have learnt in <a href="https://fullstack.edu.vn/courses/html-css
 * Clone the repo.
 
 ## 🚀How to get it running
-1. Open your IDE and go to where you download the index.html and assets folder (must be in the same folder as the index.html file).
+1. Open your IDE and go to where you downloaded the source code.
+>[!IMPORTANT]
+>Make sure `index.html` and `assets` folder are on the same directory.
+
 >[!NOTE]
 >Don't have an IDE yet? Install Vsual Studio Code [here](https://code.visualstudio.com/)!
 2. If you have installed <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>, there should be a "Go Live" button on the bottom right corner of the screen, click it and wait for the browser to open.
